@@ -16,12 +16,15 @@ organizations:
     url: 'https://bioisi.pt'
 
 # Short bio (displayed in user profile at end of posts)
-bio: Short bio goes here.
+bio: Student and aspiring researcher of bioinformatics
 
 interests:
   - Transcriptomics
+  - Proteomics
   - Molecular Biology
   - Gene Regulation
+  - System's Biology
+  - Machine Learning
 
 education:
   courses:
@@ -41,6 +44,14 @@ social:
     icon_pack: fas
     link: 'mailto:dtribeiro@ciencias.ulisboa.pt'
 
+  - icon: linkedin
+    icon_pack: fab
+    link: ''
+
+  - icon: cv
+    icon_pack: ai
+    link: files/davidribeirocv.pdf    
+
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -48,7 +59,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'mailto:dribeiro@ciencias.fc.ul.pt'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: false
@@ -59,4 +70,4 @@ user_groups:
   - MSc Students
 ---
 
-Bio goes here.
+Student and aspiring researcher interested in interfacing informatics and computation tools with transcriptomics and proteomics data.
