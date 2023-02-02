@@ -43,6 +43,10 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:dtribeiro@ciencias.ulisboa.pt'
+    
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:david.t.ribeiro@gmail.com'
 
   - icon: linkedin
     icon_pack: fab
@@ -70,4 +74,7 @@ user_groups:
   - MSc Students
 ---
 
-Student and aspiring researcher interested in interfacing informatics and computation tools with transcriptomics and proteomics data.
+Student and aspiring researcher interested in interfacing informatics and computational tools with transcriptomics and proteomics data.
+Born in the city of portalegre, David grew up close to the portuguese mediterranean countryside which fostered a love for the natural world. With interest in the life sciences
+he proceded to study a Bachelors in biology in the University of Évora. It was in these classes that he realised an interest in the elements of gene expression, proteomics, and
+the use of informatics and computational tools applied to the life sciences, which paved the way for a masters in Bioinformatics and Computational Biology in the Faculty of Sciences of the University of Lisbon, where he is currently developing his thesis.
